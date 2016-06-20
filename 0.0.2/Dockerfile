@@ -3,7 +3,7 @@ MAINTAINER Kazumichi Yamamoto <yamamoto.febc@gmail.com>
 
 ENV GLIBC_VERSION "2.23-r1"
 ENV TERRAFORM_VERSION "0.6.16"
-ENV ARUKAS_VERSION "0.0.1-alpha"
+ENV ARUKAS_VERSION "0.0.2"
 
 RUN set -x && apk add --no-cache --virtual curl unzip ca-certificates bash && \
     curl -LO https://github.com/andyshinn/alpine-pkg-glibc/releases/download/${GLIBC_VERSION}/glibc-${GLIBC_VERSION}.apk && \
