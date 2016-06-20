@@ -1,0 +1,5 @@
+terraform:
+  image: aquarium/terraform-arukas
+  env_file: .env
+  volumes:
+    - $PWD:/work/

@@ -1,0 +1,12 @@
+#**********************************************************
+# Terraform for Arukas (author:yamamoto-febc)
+#**********************************************************
+# PLEASE RENAME THIS FILE TO ".env"
+# cp env-sample .env
+#**********************************************************
+
+# ACCESS_TOKEN
+#ARUKAS_JSON_API_TOKEN=
+
+# ACCESS_TOKEN_SECRET
+#ARUKAS_JSON_API_SECRET=
