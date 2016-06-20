@@ -1,4 +1,4 @@
-terraform:
+terraform-arukas:
   image: aquarium/terraform-arukas
   env_file: .env
   volumes:
