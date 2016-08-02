@@ -5,7 +5,8 @@
 ## `Dockerfile` links
 
 - [`0.0.1`(Dockerfile)](https://github.com/yamamoto-febc/terraform-for-arukas-docker/tree/master/0.0.1/)
-- [`0.0.2`,`latest`(Dockerfile)](https://github.com/yamamoto-febc/terraform-for-arukas-docker/tree/master/0.0.2/)
+- [`0.0.2`(Dockerfile)](https://github.com/yamamoto-febc/terraform-for-arukas-docker/tree/master/0.0.2/)
+- [`0.0.3`,`latest`(Dockerfile)](https://github.com/yamamoto-febc/terraform-for-arukas-docker/tree/master/0.0.3/)
 
 
 ## 使い方(docker-composeを使う場合)
